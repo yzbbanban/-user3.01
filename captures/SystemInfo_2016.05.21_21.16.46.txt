@@ -1,0 +1,138 @@
+TASK com.wangban.musciplayer id=7
+  ACTIVITY com.wangban.musciplayer/.ui.MainActivity 527abc58 pid=2356
+    Local Activity 52820590 State:
+      mResumed=true mStopped=false mFinished=false
+      mLoadersStarted=true
+      mChangingConfigurations=false
+      mCurrentConfig={1.0 ?mcc?mnc zh_CN ldltr sw400dp w400dp h657dp 240dpi nrml long port finger -keyb/v/h dpad/v s.6}
+    FragmentManager misc state:
+      mActivity=com.wangban.musciplayer.ui.MainActivity@52820590
+      mContainer=android.app.Activity$1@527748b0
+      mCurState=5 mStateSaved=false mDestroyed=false
+    View Hierarchy:
+      com.android.internal.policy.impl.PhoneWindow$DecorView{52820b84 V.E..... R....... 0,0-600,1024}
+        com.android.internal.widget.ActionBarOverlayLayout{52820ed0 V.E..... ........ 0,0-600,1024 #102033d android:id/action_bar_overlay_layout}
+          android.widget.FrameLayout{528214bc V.E..... ........ 0,110-600,1024 #1020002 android:id/content}
+            android.widget.RelativeLayout{52825660 V.E..... ........ 0,0-600,914}
+              android.widget.RelativeLayout{528258c0 V.E..... ........ 24,818-576,890 #7f080000 app:id/rl_item}
+                android.widget.ImageButton{52825bc0 VFED..C. ........ 234,0-318,72 #7f080001 app:id/ibtn_music_play_or_pause}
+                android.widget.ImageButton{52826080 VFED..C. ........ 318,0-402,72 #7f080002 app:id/ibtn_music_next}
+                android.widget.ImageButton{52826540 VFED..C. ........ 150,0-234,72 #7f080003 app:id/ibtn_music_previous}
+              android.widget.RelativeLayout{52826a00 V.E..... ........ 24,708-576,818 #7f080004 app:id/rl_seekbar}
+                android.widget.TextView{52826cfc V.ED.... ........ 0,0-552,33 #7f080005 app:id/tv_current_music}
+                android.widget.SeekBar{52826fd4 VFED.... ........ 0,33-552,81 #7f080006 app:id/sb_progross}
+                android.widget.TextView{52828aec V.ED.... ........ 0,81-53,110 #7f080007 app:id/tv_current_time}
+                android.widget.TextView{52828da4 V.ED.... ........ 499,81-552,110 #7f080008 app:id/tv_duration_time}
+              android.widget.ListView{5282905c VFED.VC. .F...... 24,24-576,708 #7f080009 app:id/lv_music_item}
+                android.widget.LinearLayout{5282bf38 V.E..... ........ 0,0-552,74}
+                  android.widget.TextView{5282c0cc V.ED.... ........ 8,8-544,37 #7f08000a app:id/tv_music_title}
+                  android.widget.TextView{5282c30c V.ED.... ........ 8,37-544,66 #7f08000b app:id/tv_music_path}
+                android.widget.LinearLayout{5282c704 V.E..... ........ 0,75-552,149}
+                  android.widget.TextView{5282c878 V.ED.... ........ 8,8-544,37 #7f08000a app:id/tv_music_title}
+                  android.widget.TextView{5282ca98 V.ED.... ........ 8,37-544,66 #7f08000b app:id/tv_music_path}
+                android.widget.LinearLayout{5282ce6c V.E..... ........ 0,150-552,224}
+                  android.widget.TextView{5282cfe0 V.ED.... ........ 8,8-544,37 #7f08000a app:id/tv_music_title}
+                  android.widget.TextView{5282d200 V.ED.... ........ 8,37-544,66 #7f08000b app:id/tv_music_path}
+                android.widget.LinearLayout{5282d5d4 V.E..... ........ 0,225-552,299}
+                  android.widget.TextView{5282d748 V.ED.... ........ 8,8-544,37 #7f08000a app:id/tv_music_title}
+                  android.widget.TextView{5282d968 V.ED.... ........ 8,37-544,66 #7f08000b app:id/tv_music_path}
+                android.widget.LinearLayout{5282dd3c V.E..... ........ 0,300-552,374}
+                  android.widget.TextView{5282deb0 V.ED.... ........ 8,8-544,37 #7f08000a app:id/tv_music_title}
+                  android.widget.TextView{5282e0d0 V.ED.... ........ 8,37-544,66 #7f08000b app:id/tv_music_path}
+                android.widget.LinearLayout{5282e4a4 V.E..... ........ 0,375-552,473}
+                  android.widget.TextView{5282e618 V.ED.... ........ 8,8-544,37 #7f08000a app:id/tv_music_title}
+                  android.widget.TextView{5282e838 V.ED.... ........ 8,37-544,90 #7f08000b app:id/tv_music_path}
+                android.widget.LinearLayout{5282ec64 V.E..... ........ 0,474-552,548}
+                  android.widget.TextView{5282edd8 V.ED.... ........ 8,8-544,37 #7f08000a app:id/tv_music_title}
+                  android.widget.TextView{5282eff8 V.ED.... ........ 8,37-544,66 #7f08000b app:id/tv_music_path}
+                android.widget.LinearLayout{5282f3cc V.E..... ........ 0,549-552,647}
+                  android.widget.TextView{5282f540 V.ED.... ........ 8,8-544,37 #7f08000a app:id/tv_music_title}
+                  android.widget.TextView{5282f760 V.ED.... ........ 8,37-544,90 #7f08000b app:id/tv_music_path}
+                android.widget.LinearLayout{5282fb8c V.E..... ........ 0,648-552,722}
+                  android.widget.TextView{5282fd00 V.ED.... ........ 8,8-544,37 #7f08000a app:id/tv_music_title}
+                  android.widget.TextView{5282ff20 V.ED.... ........ 8,37-544,66 #7f08000b app:id/tv_music_path}
+          android.widget.LinearLayout{528216a0 V.E..... ........ 0,38-600,110 #102033e android:id/top_action_bar}
+            com.android.internal.widget.ActionBarContainer{52821878 V.ED.... ........ 0,0-600,72 #102033f android:id/action_bar_container}
+              com.android.internal.widget.ActionBarView{52821b28 V.E..... ........ 0,0-600,72 #1020340 android:id/action_bar}
+                android.widget.LinearLayout{528224c0 V.....C. ........ 13,0-257,72}
+                  com.android.internal.widget.ActionBarView$HomeView{52822fc8 V.E..... ........ 0,0-60,72}
+                    android.widget.ImageView{528231bc G.ED.... ......I. 0,0-0,0 #1020252 android:id/up}
+                    android.widget.ImageView{52823340 V.ED.... ........ 6,12-54,60 #102002c android:id/home}
+                  android.widget.LinearLayout{52823eac V.E..... ........ 60,0-244,72}
+                    android.widget.ImageView{52824060 G.ED.... ......I. 0,0-0,0 #1020252 android:id/up}
+                    android.widget.LinearLayout{528241e8 V.E..... ........ 0,17-172,54}
+                      android.widget.TextView{5282439c V.ED.... ........ 0,0-172,37 #102025a android:id/action_bar_title}
+                      android.widget.TextView{528249ec G.ED.... ......I. 0,0-0,0 #102025b android:id/action_bar_subtitle}
+                com.android.internal.view.menu.ActionMenuView{52830648 V.ED.... ......ID 600,0-600,72}
+              com.android.internal.widget.ActionBarContextView{52824cc8 G.E..... ......ID 0,0-0,0 #1020341 android:id/action_context_bar}
+            android.widget.ImageView{52824f3c V.ED.... ......ID 600,0-600,24}
+          com.android.internal.widget.ActionBarContainer{528250b8 G.ED.... ......ID 0,0-0,0 #1020342 android:id/split_action_bar}
+
+  ACTIVITY com.wangban.musciplayer/.ui.MainActivity 52766cd8 pid=2356
+    Local Activity 52750b70 State:
+      mResumed=false mStopped=true mFinished=false
+      mLoadersStarted=false
+      mChangingConfigurations=false
+      mCurrentConfig={1.0 ?mcc?mnc zh_CN ldltr sw400dp w400dp h657dp 240dpi nrml long port finger -keyb/v/h dpad/v s.6}
+    FragmentManager misc state:
+      mActivity=com.wangban.musciplayer.ui.MainActivity@52750b70
+      mContainer=android.app.Activity$1@52750c40
+      mCurState=3 mStateSaved=true mDestroyed=false
+    View Hierarchy:
+      com.android.internal.policy.impl.PhoneWindow$DecorView{527512b4 I.E..... R....... 0,0-600,1024}
+        com.android.internal.widget.ActionBarOverlayLayout{52751a48 V.E..... ........ 0,0-600,1024 #102033d android:id/action_bar_overlay_layout}
+          android.widget.FrameLayout{527520c0 V.E..... ........ 0,110-600,1024 #1020002 android:id/content}
+            android.widget.RelativeLayout{527427d4 V.E..... ........ 0,0-600,914}
+              android.widget.RelativeLayout{5274c930 V.E..... ........ 24,818-576,890 #7f080000 app:id/rl_item}
+                android.widget.ImageButton{5274bfac VFED..C. ........ 234,0-318,72 #7f080001 app:id/ibtn_music_play_or_pause}
+                android.widget.ImageButton{52745dac VFED..C. ........ 318,0-402,72 #7f080002 app:id/ibtn_music_next}
+                android.widget.ImageButton{527c1dac VFED..C. ........ 150,0-234,72 #7f080003 app:id/ibtn_music_previous}
+              android.widget.RelativeLayout{527c35dc V.E..... ........ 24,708-576,818 #7f080004 app:id/rl_seekbar}
+                android.widget.TextView{527c38d8 V.ED.... ........ 0,0-552,33 #7f080005 app:id/tv_current_music}
+                android.widget.SeekBar{527c3c3c VFED.... ........ 0,33-552,81 #7f080006 app:id/sb_progross}
+                android.widget.TextView{527cb370 V.ED.... ........ 0,81-53,110 #7f080007 app:id/tv_current_time}
+                android.widget.TextView{527cb628 V.ED.... ........ 499,81-552,110 #7f080008 app:id/tv_duration_time}
+              android.widget.ListView{527cb96c VFED.VC. .F...... 24,24-576,708 #7f080009 app:id/lv_music_item}
+                android.widget.LinearLayout{52758920 V.E..... ........ 0,0-552,74}
+                  android.widget.TextView{52758ab4 V.ED.... ........ 8,8-544,37 #7f08000a app:id/tv_music_title}
+                  android.widget.TextView{52758cf4 V.ED.... ........ 8,37-544,66 #7f08000b app:id/tv_music_path}
+                android.widget.LinearLayout{527592d8 V.E..... ........ 0,75-552,149}
+                  android.widget.TextView{5275944c V.ED.... ........ 8,8-544,37 #7f08000a app:id/tv_music_title}
+                  android.widget.TextView{5275966c V.ED.... ........ 8,37-544,66 #7f08000b app:id/tv_music_path}
+                android.widget.LinearLayout{52759a40 V.E..... ........ 0,150-552,224}
+                  android.widget.TextView{52759bb4 V.ED.... ........ 8,8-544,37 #7f08000a app:id/tv_music_title}
+                  android.widget.TextView{52759dd4 V.ED.... ........ 8,37-544,66 #7f08000b app:id/tv_music_path}
+                android.widget.LinearLayout{5275a1a8 V.E..... ........ 0,225-552,299}
+                  android.widget.TextView{5275a31c V.ED.... ........ 8,8-544,37 #7f08000a app:id/tv_music_title}
+                  android.widget.TextView{5275a53c V.ED.... ........ 8,37-544,66 #7f08000b app:id/tv_music_path}
+                android.widget.LinearLayout{5275a910 V.E..... ........ 0,300-552,374}
+                  android.widget.TextView{5275aa84 V.ED.... ........ 8,8-544,37 #7f08000a app:id/tv_music_title}
+                  android.widget.TextView{5275aca4 V.ED.... ........ 8,37-544,66 #7f08000b app:id/tv_music_path}
+                android.widget.LinearLayout{5275b078 V.E..... ........ 0,375-552,473}
+                  android.widget.TextView{5275b1ec V.ED.... ........ 8,8-544,37 #7f08000a app:id/tv_music_title}
+                  android.widget.TextView{5275b40c V.ED.... ........ 8,37-544,90 #7f08000b app:id/tv_music_path}
+                android.widget.LinearLayout{5275b900 V.E..... ........ 0,474-552,548}
+                  android.widget.TextView{5275ba74 V.ED.... ........ 8,8-544,37 #7f08000a app:id/tv_music_title}
+                  android.widget.TextView{5275bc94 V.ED.... ........ 8,37-544,66 #7f08000b app:id/tv_music_path}
+                android.widget.LinearLayout{5275c068 V.E..... ........ 0,549-552,647}
+                  android.widget.TextView{5275c1dc V.ED.... ........ 8,8-544,37 #7f08000a app:id/tv_music_title}
+                  android.widget.TextView{5275c3fc V.ED.... ........ 8,37-544,90 #7f08000b app:id/tv_music_path}
+                android.widget.LinearLayout{5275c9b0 V.E..... ........ 0,648-552,722}
+                  android.widget.TextView{5275cb24 V.ED.... ........ 8,8-544,37 #7f08000a app:id/tv_music_title}
+                  android.widget.TextView{5275cd44 V.ED.... ........ 8,37-544,66 #7f08000b app:id/tv_music_path}
+          android.widget.LinearLayout{5275237c V.E..... ........ 0,38-600,110 #102033e android:id/top_action_bar}
+            com.android.internal.widget.ActionBarContainer{52752588 V.ED.... ........ 0,0-600,72 #102033f android:id/action_bar_container}
+              com.android.internal.widget.ActionBarView{52753f54 V.E..... ........ 0,0-600,72 #1020340 android:id/action_bar}
+                android.widget.LinearLayout{5274be40 V.....C. ........ 13,0-257,72}
+                  com.android.internal.widget.ActionBarView$HomeView{527506ac V.E..... ........ 0,0-60,72}
+                    android.widget.ImageView{527472f0 G.ED.... ......I. 0,0-0,0 #1020252 android:id/up}
+                    android.widget.ImageView{52748aac V.ED.... ........ 6,12-54,60 #102002c android:id/home}
+                  android.widget.LinearLayout{527410f4 V.E..... ........ 60,0-244,72}
+                    android.widget.ImageView{5274120c G.ED.... ......I. 0,0-0,0 #1020252 android:id/up}
+                    android.widget.LinearLayout{527470d4 V.E..... ........ 0,17-172,54}
+                      android.widget.TextView{5274b858 V.ED.... ........ 0,0-172,37 #102025a android:id/action_bar_title}
+                      android.widget.TextView{5274b9a8 G.ED.... ......I. 0,0-0,0 #102025b android:id/action_bar_subtitle}
+                com.android.internal.view.menu.ActionMenuView{5275d72c V.ED.... ......ID 600,0-600,72}
+              com.android.internal.widget.ActionBarContextView{5274c80c G.E..... ......ID 0,0-0,0 #1020341 android:id/action_context_bar}
+            android.widget.ImageView{5274a9e0 V.ED.... ......ID 600,0-600,24}
+          com.android.internal.widget.ActionBarContainer{527426b4 G.ED.... ......ID 0,0-0,0 #1020342 android:id/split_action_bar}

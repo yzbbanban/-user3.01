@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorLight"
+
+    android:orientation="horizontal"
+    android:padding="5dp">
+
+    <RelativeLayout
+        android:layout_width="20dp"
+        android:layout_height="45dp">
+
+        <ImageView
+            android:id="@+id/iv_is_lay"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_centerInParent="true"
+            android:scaleType="fitCenter"
+            android:background="@drawable/point"
+             />
+
+
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginLeft="5dp"
+
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_music_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ellipsize="marquee"
+            android:singleLine="true"
+            android:textColor="#ffffff"
+            android:text="hulahula"
+            android:textSize="14sp" />
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/tv_music_artist"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:ellipsize="marquee"
+                android:singleLine="true"
+                android:text="wadwadwad"
+                android:textColor="#cccccc"
+                android:textSize="10sp" />
+
+            <TextView
+                android:id="@+id/tv_music_Album"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_toRightOf="@id/tv_music_artist"
+                android:ellipsize="marquee"
+                android:singleLine="true"
+                android:text="owowowowowo"
+                android:textColor="#cccccc"
+                android:textSize="10sp" />
+
+            <TextView
+                android:id="@+id/tv_music_duration_list"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:gravity="center_vertical"
+                android:textColor="#dddddd"
+                android:text="00:00" />
+        </RelativeLayout>
+
+
+    </LinearLayout>
+
+
+</LinearLayout>

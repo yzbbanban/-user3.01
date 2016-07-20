@@ -1,0 +1,138 @@
+[
+    {
+        "merged": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_background.jpg",
+        "source": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/src/main/res/drawable-hdpi/ic_background.jpg"
+    },
+    {
+        "merged": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/return_nomal.png",
+        "source": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/src/main/res/drawable-hdpi/return_nomal.png"
+    },
+    {
+        "merged": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/new_music_list.png",
+        "source": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/src/main/res/drawable-hdpi/new_music_list.png"
+    },
+    {
+        "merged": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_background_04.jpg",
+        "source": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/src/main/res/drawable-hdpi/ic_background_04.jpg"
+    },
+    {
+        "merged": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/manage_list.png",
+        "source": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/src/main/res/drawable-hdpi/manage_list.png"
+    },
+    {
+        "merged": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/play_nomal.png",
+        "source": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/src/main/res/drawable-hdpi/play_nomal.png"
+    },
+    {
+        "merged": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/list_nomal.png",
+        "source": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/src/main/res/drawable-hdpi/list_nomal.png"
+    },
+    {
+        "merged": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cloud_music_list.png",
+        "source": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/src/main/res/drawable-hdpi/cloud_music_list.png"
+    },
+    {
+        "merged": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_lanucg_1.png",
+        "source": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/src/main/res/drawable-hdpi/ic_lanucg_1.png"
+    },
+    {
+        "merged": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/repeat_play.png",
+        "source": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/src/main/res/drawable-hdpi/repeat_play.png"
+    },
+    {
+        "merged": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/list_pressed.png",
+        "source": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/src/main/res/drawable-hdpi/list_pressed.png"
+    },
+    {
+        "merged": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/local_press.png",
+        "source": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/src/main/res/drawable-hdpi/local_press.png"
+    },
+    {
+        "merged": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/pause_nomal.png",
+        "source": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/src/main/res/drawable-hdpi/pause_nomal.png"
+    },
+    {
+        "merged": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/randowm_play.png",
+        "source": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/src/main/res/drawable-hdpi/randowm_play.png"
+    },
+    {
+        "merged": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launch_background1.JPG",
+        "source": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/src/main/res/drawable-hdpi/ic_launch_background1.JPG"
+    },
+    {
+        "merged": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/next_play_pressed.png",
+        "source": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/src/main/res/drawable-hdpi/next_play_pressed.png"
+    },
+    {
+        "merged": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/share_nomal.png",
+        "source": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/src/main/res/drawable-hdpi/share_nomal.png"
+    },
+    {
+        "merged": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/point.png",
+        "source": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/src/main/res/drawable-hdpi/point.png"
+    },
+    {
+        "merged": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/cloud_music_list2.png",
+        "source": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/src/main/res/drawable-hdpi/cloud_music_list2.png"
+    },
+    {
+        "merged": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/previous_play_nomal.png",
+        "source": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/src/main/res/drawable-hdpi/previous_play_nomal.png"
+    },
+    {
+        "merged": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/recycle_play.png",
+        "source": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/src/main/res/drawable-hdpi/recycle_play.png"
+    },
+    {
+        "merged": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/pause_pressed.png",
+        "source": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/src/main/res/drawable-hdpi/pause_pressed.png"
+    },
+    {
+        "merged": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/menu_pressed.png",
+        "source": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/src/main/res/drawable-hdpi/menu_pressed.png"
+    },
+    {
+        "merged": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/play_pressed.png",
+        "source": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/src/main/res/drawable-hdpi/play_pressed.png"
+    },
+    {
+        "merged": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_laba02.png",
+        "source": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/src/main/res/drawable-hdpi/ic_laba02.png"
+    },
+    {
+        "merged": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/menu_nomal_2.png",
+        "source": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/src/main/res/drawable-hdpi/menu_nomal_2.png"
+    },
+    {
+        "merged": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/local_nomal.png",
+        "source": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/src/main/res/drawable-hdpi/local_nomal.png"
+    },
+    {
+        "merged": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/default_play_activity_bg1.png",
+        "source": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/src/main/res/drawable-hdpi/default_play_activity_bg1.png"
+    },
+    {
+        "merged": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/next_play_nomal.png",
+        "source": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/src/main/res/drawable-hdpi/next_play_nomal.png"
+    },
+    {
+        "merged": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_yangshengqi.png",
+        "source": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/src/main/res/drawable-hdpi/ic_yangshengqi.png"
+    },
+    {
+        "merged": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/background.jpeg",
+        "source": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/src/main/res/drawable-hdpi/background.jpeg"
+    },
+    {
+        "merged": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/previous_play_pressed.png",
+        "source": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/src/main/res/drawable-hdpi/previous_play_pressed.png"
+    },
+    {
+        "merged": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_laba.png",
+        "source": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/src/main/res/drawable-hdpi/ic_laba.png"
+    }
+]

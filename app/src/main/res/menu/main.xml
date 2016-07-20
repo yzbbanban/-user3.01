@@ -1,0 +1,23 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/menu_new_music_list"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:icon="@drawable/new_music_list"
+        android:title="新建歌单"/>
+    <item
+        android:id="@+id/menu_manage_music"
+        android:orderInCategory="100"
+        android:icon="@drawable/manage_list"
+        android:showAsAction="never"
+
+        android:title="管理歌曲"/>
+    <item
+        android:id="@+id/menu_my_music_cloud"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:icon="@drawable/cloud_music_list"
+        android:title="我的音乐云盘"/>
+
+</menu>

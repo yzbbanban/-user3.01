@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/build/intermediates/res/merged/debug/layout/main_menu_list.xml",
+        "source": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/src/main/res/layout/main_menu_list.xml"
+    },
+    {
+        "merged": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/build/intermediates/res/merged/debug/layout/title_bar.xml",
+        "source": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/src/main/res/layout/title_bar.xml"
+    },
+    {
+        "merged": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/build/intermediates/res/merged/debug/layout/music_activity_second.xml",
+        "source": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/src/main/res/layout/music_activity_second.xml"
+    },
+    {
+        "merged": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/build/intermediates/res/merged/debug/layout/music_item.xml",
+        "source": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/src/main/res/layout/music_item.xml"
+    },
+    {
+        "merged": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/build/intermediates/res/merged/debug/layout/activity_music.xml",
+        "source": "/Users/YZBbanban/Desktop/音乐播放器user3.01/app/src/main/res/layout/activity_music.xml"
+    }
+]
